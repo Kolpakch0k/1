@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "CipherVault",
+    "slug": "ciphervault",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ciphervault.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      },
+      "package": "com.ciphervault.app"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
